@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Vaidik Raval
+# Hi there! 👋 I'm Vaidik Raval
 
 🚀 **Full Stack Developer | DevOps Enthusiast | AI/ML Explorer**
 
