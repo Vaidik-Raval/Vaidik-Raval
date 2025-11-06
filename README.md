@@ -1,3 +1,5 @@
+[![An image of @vaidikraval's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaidikraval)](https://holopin.io/@vaidikraval)
+
 # Hi there! 👋 I'm Vaidik Raval
 
 🚀 **Full Stack Developer | DevOps Enthusiast | AI/ML Explorer**
@@ -7,15 +9,15 @@ I'm passionate about building scalable web applications, exploring DevOps practi
 ## 🔥 Tech Stack
 
 ### 🚀 **Languages & Frameworks**
-- **Programming:** Java, JavaScript, Python
+- **Programming:** Java, Python, JavaScript, C++
 - **Frontend:** HTML, CSS, JavaScript (GSAP, React, Tailwind CSS)
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Firebase
+- **Database:** MongoDB, MySQL, Firebase
 
 ### ☁ **Cloud & DevOps**
-- **Tools:** Docker, Kubernetes, CI/CD
+- **Tools:** Docker, Kubernetes, CI/CD, Terraform
 - **Cloud:** AWS, Google Cloud (Exploring)
-- **Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub, GitAction
 
 <!-- ## 📌 Featured Projects
 
