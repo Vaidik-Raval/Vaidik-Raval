@@ -41,3 +41,5 @@ An OCR-based platform for English & Gujarati text recognition, processing low-qu
 - 🎸 Fun Fact: I play guitar in my free time! 🎶
 
 Let's build something amazing together! 🚀
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=vaidik-raval alt=vaidik-raval/> </p>
