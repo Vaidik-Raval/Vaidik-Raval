@@ -42,7 +42,10 @@ An OCR-based platform for English & Gujarati text recognition, processing low-qu
 
 ## 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vaidik-raval)
+- 🌐 Portfolio: [vaidik-raval.github.io/portfolion](https://vaidik-raval.github.io/portfolion/)
+- 📧 Email: vaidikraval60@gmail.com
 - 🎸 Fun Fact: I play guitar in my free time! 🎶
+
 
 Let's build something amazing together! 🚀
 
