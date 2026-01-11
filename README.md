@@ -6,6 +6,10 @@
 
 I'm passionate about building scalable web applications, exploring DevOps practices, and working with AI/ML models. With experience in **Java, JavaScript, Node.js, and Cloud Technologies**, I love solving complex problems and optimizing performance.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidik-raval/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://vaidik-raval.github.io/portfolion/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vaidikraval60@gmail.com)
+
 ## 🔥 Tech Stack
 
 ### 🚀 **Languages & Frameworks**
